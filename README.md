@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying on degree
-- 🌱 I’m currently learning C
+- 🔭 I’m currently studying on a degree
+- 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with my life
 - 💬 Ask me about nothing
 - 📫 How to reach me: davidjlopes0@gmail.com
